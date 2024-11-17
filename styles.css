@@ -80,6 +80,7 @@ button {
 /* Unique button colors */
 button:nth-child(1) {
     background-color: #007bff; /* Compliment button (blue) */
+    text-align: left
 }
 
 button:nth-child(1):hover {
